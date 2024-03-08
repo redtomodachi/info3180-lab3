@@ -1,3 +1,27 @@
 body {
     padding-top: 5rem;
 }
+.formfield{
+    margin: 19px;
+}
+
+.formfield p{
+    margin-top: 10px;
+}
+
+.btn{
+    background: rgb(104, 156, 235);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-left: 20px;
+}
+
+.textarea{
+    height: 130px;
+    width: 600px;
+}
+
+.subheading{
+    margin-left: 20px;
+}
